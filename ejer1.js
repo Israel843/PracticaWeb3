@@ -17,4 +17,3 @@ const palabra = "euforia";
 let obj = miFuncion(palabra);
 console.log(obj);
 
-console.log("Hola mundo");
